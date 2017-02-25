@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 24, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Jordan Bennett)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was to create a tax rate calculator that would place people in a tax bracket based on filing status and income and then give them their tax rate.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://jrb16g.github.io/lesson5_javascript2/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to use javascript to calculate values.)
+2. (One of the most useful concepts I learend was if/then and how to use that with different input values to apply conditions.)
+3. (I also learned about values and statuses of things in javascript. How they start at 0 and how you can define values and apply that to different functions.)
